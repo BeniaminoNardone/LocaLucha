@@ -6,4 +6,4 @@
 
 An over-the-top 2D wrestling game set in a post-apocalyptic world where humans have lost all sense and logic. Fighters include a cookie woman and a snowman with a gun. Made in 48 hours for Global Game Jam 2026 with Unity and C#.
 
-Mac and Windows builds in [Releases](../../releases).
+Mac and Windows builds in [Releases](../../releases). 
